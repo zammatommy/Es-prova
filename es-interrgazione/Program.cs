@@ -8,6 +8,8 @@ namespace es_interrgazione
 {
     class Program
     {
+
+        vbvbbbvbvbv
         static void Main(string[] args)
         {
             // Delegato      // Metodo
