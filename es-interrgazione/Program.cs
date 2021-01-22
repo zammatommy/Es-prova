@@ -12,7 +12,7 @@ namespace es_interrgazione
         vbvbbbvbvbv
             oooojjj
             kkk
-
+             curuivrpuevrbyvh
         static void Main(string[] args)
         {
             // Delegato      // Metodo
