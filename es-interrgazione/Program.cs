@@ -14,6 +14,7 @@ namespace es_interrgazione
             kkk
              curuivrpuevrbyvh
             yyyyy
+            uuuuu
         static void Main(string[] args)
         {
             // Delegato      // Metodo
